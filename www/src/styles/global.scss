@@ -1,0 +1,31 @@
+/*
+  The CSS in this style tag is based off of Bear Blog's default CSS.
+  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
+  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  * {
+    @apply duration-150 m-0 p-0;
+  }
+
+  html {
+    @apply bg-black text-white/75 text-lg decoration-2 underline-offset-4 tracking-wide;
+  }
+
+  hr {
+    @apply border-white/10;
+  }
+
+  button,
+  .btn {
+    @apply bg-gray-800 hover:bg-gray-700 flex items-center px-4 py-1 font-normal cursor-pointer rounded;
+  }
+
+  .bg-grid {
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="rgb(148 163 184 / 0.05)"><path d="M0 .5H31.5V32"/></svg>');
+  }
+}

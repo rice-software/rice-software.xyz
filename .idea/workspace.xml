@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac2e3eec-a62d-4849-8df4-fab49d8f4506" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rice-software.xyz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/astro.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public/SynUI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public/placeholder-about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public/placeholder-hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public/placeholder-social.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public/review/hiroku.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public/review/kaneki.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public/review/notbogie.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/components/BaseHead.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/components/Footer.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/components/FormattedDate.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/components/Navbar.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/components/NavbarLink.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/components/ResponsiveDiv.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/components/Review.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/consts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/content/blog/first-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/content/blog/markdown-style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/content/blog/second-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/content/blog/third-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/content/blog/using-mdx.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/content/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/layouts/BlogLayout.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/layouts/PageLayout.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/pages/blog/[...slug].astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/pages/blog/index.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/pages/index.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/pages/rss.xml.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/src/styles/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/tailwind.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2O8zOvrnFE4UhRvkX6J71jqHoVw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/khoa/projects/rice-software.xyz",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "/home/khoa/projects/rice-software.xyz/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/home/khoa/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/231.8109.174/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/public/review" />
+      <recent name="$PROJECT_DIR$/www/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac2e3eec-a62d-4849-8df4-fab49d8f4506" name="Changes" comment="" />
+      <created>1680956971766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680956971766</updated>
+      <workItem from="1680956985377" duration="1779000" />
+      <workItem from="1681634126343" duration="761000" />
+      <workItem from="1681634962509" duration="75000" />
+      <workItem from="1681635059557" duration="8645000" />
+      <workItem from="1681734409155" duration="5660000" />
+      <workItem from="1681807576357" duration="6978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>

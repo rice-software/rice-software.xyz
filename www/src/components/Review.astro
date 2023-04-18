@@ -1,0 +1,25 @@
+---
+export interface Props {
+  name: string;
+  title: string;
+  statement: string;
+  imageSrc?: string;
+}
+
+const { name, title, statement, imageSrc } = Astro.props;
+---
+
+<div
+  class="flex flex-col items-center border-white/10 border-[1px] rounded p-8"
+>
+  <img
+    src={imageSrc ?? "/placeholder-about.jpg"}
+    alt=""
+    class="bg-white/10 w-16 h-16 rounded-full object-cover"
+  />
+
+  <p class="mb-auto py-8">{`"${statement}"`}</p>
+
+  <p class="text-blue-400">{name}</p>
+  <p class="text-white/50 text-sm">{title}</p>
+</div>

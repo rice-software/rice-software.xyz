@@ -1,0 +1,19 @@
+---
+import ResponsiveDiv from "./ResponsiveDiv.astro";
+import NavbarLink from "./NavbarLink.astro";
+import { SITE_TITLE } from "@/consts";
+---
+
+<ResponsiveDiv
+  class="bg-black/50 border-b-[1px] border-white/10 sticky top-0 z-10 backdrop-blur-xl"
+>
+  <div class="flex items-stretch">
+    <div class="flex flex-1 items-center py-4">
+      <p class="font-semibold">{SITE_TITLE}</p>
+    </div>
+
+    <div class="grid grid-flow-col auto-cols-fr items-stretch">
+      <NavbarLink href="/">Home</NavbarLink>
+    </div>
+  </div>
+</ResponsiveDiv>
