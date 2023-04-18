@@ -5,58 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac2e3eec-a62d-4849-8df4-fab49d8f4506" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rice-software.xyz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/astro.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/public/SynUI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/public/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/public/placeholder-about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/public/placeholder-hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/public/placeholder-social.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/public/review/hiroku.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/public/review/kaneki.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/public/review/notbogie.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/components/BaseHead.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/components/Footer.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/components/FormattedDate.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/components/Navbar.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/components/NavbarLink.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/components/ResponsiveDiv.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/components/Review.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/consts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/content/blog/first-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/content/blog/markdown-style-guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/content/blog/second-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/content/blog/third-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/content/blog/using-mdx.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/content/config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/layouts/BlogLayout.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/layouts/PageLayout.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/pages/blog/[...slug].astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/pages/blog/index.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/pages/index.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/pages/rss.xml.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/src/styles/global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/tailwind.config.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,8 +77,16 @@
       <workItem from="1681634962509" duration="75000" />
       <workItem from="1681635059557" duration="8645000" />
       <workItem from="1681734409155" duration="5660000" />
-      <workItem from="1681807576357" duration="6978000" />
+      <workItem from="1681807576357" duration="8003000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1681825227247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681825227247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

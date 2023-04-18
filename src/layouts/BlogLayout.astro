@@ -1,0 +1,46 @@
+---
+import type { CollectionEntry } from "astro:content";
+import BaseHead from "../components/BaseHead.astro";
+import PageLayout from "./PageLayout.astro";
+import ResponsiveDiv from "../components/ResponsiveDiv.astro";
+
+type Props = CollectionEntry<"blog">["data"];
+
+const { title, description, pubDate, heroImage } = Astro.props;
+---
+
+<html lang="en">
+<head>
+  <BaseHead title={title} description={description} />
+</head>
+
+<PageLayout>
+  <ResponsiveDiv>
+    <div class="w-full flex gap-16">
+      <div class="flex flex-col">
+        <div class="prose prose-invert">
+          <h1>{title}</h1>
+          <time datetime={pubDate.toISOString()}>
+            {
+              pubDate.toLocaleDateString("en-us", {
+                year: "numeric",
+                month: "long",
+                day: "numeric"
+              })
+            }
+          </time>
+          <p>{description}</p>
+
+          <hr class="not-prose my-8" />
+
+          <slot />
+        </div>
+      </div>
+
+      <div class="flex-1">
+        <p class="font-semibold text-white">Blogs</p>
+      </div>
+    </div>
+  </ResponsiveDiv>
+</PageLayout>
+</html>
