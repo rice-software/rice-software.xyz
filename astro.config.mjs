@@ -6,11 +6,12 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: "https://rice-software.xyz",
+  output: "server",
   integrations: [
     mdx(),
     sitemap(),
     tailwind({
-      config: { applyBaseStyles: false },
-    }),
-  ],
+      config: { applyBaseStyles: false }
+    })
+  ]
 });
